@@ -34,6 +34,7 @@ Material de arranque para definir la oferta, investigar el mercado, redactar la 
 |---|---|---|---|
 | **1** | `aterrizar-idea` | Pasar de una idea general a una oferta en una frase, recursos, límites e hipótesis | [`skills/aterrizar-idea/SKILL.md`](skills/aterrizar-idea/SKILL.md) |
 | **2** | `investigar-mercado` | Analizar 5–10 alternativas reales con precios, URLs, fechas, pruebas en contra y guion de entrevistas | [`skills/investigar-mercado/SKILL.md`](skills/investigar-mercado/SKILL.md) |
+| **2 bis** | `comparar-competidores` | Comparar cara a cara 3–6 alternativas reales con fuentes, fecha y filtro «tener vs. importar» | [`skills/comparar-competidores/SKILL.md`](skills/comparar-competidores/SKILL.md) |
 | **Opcional** | `consejo-asesores` | Revisión crítica simulada desde 5 perspectivas (cliente, mensaje, captación, costes y asesor que contradice) | [`skills/consejo-asesores/SKILL.md`](skills/consejo-asesores/SKILL.md) |
 | **3** | `disenar-experimento` | Definir la primera prueba pequeña (`E1`) con señal observable, plazo y presupuesto máximo | [`skills/disenar-experimento/SKILL.md`](skills/disenar-experimento/SKILL.md) |
 | **4** | `interpretar-resultados` | Separar observaciones medibles de hipótesis y decidir: continuar, modificar o detener | [`skills/interpretar-resultados/SKILL.md`](skills/interpretar-resultados/SKILL.md) |
