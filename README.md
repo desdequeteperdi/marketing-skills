@@ -1,8 +1,8 @@
 # Skills y plantillas de trabajo (`COMM0006` / `IFCT029PO`)
 
-Material de arranque para definir la oferta, investigar el mercado, diseñar pruebas pequeñas e interpretar resultados sin planificar en exceso.
+Material de arranque para definir la oferta, investigar el mercado, redactar la web sin clichés de IA, auditar SEO/AEO, reutilizar contenidos y decidir el siguiente paso sin planificar en exceso.
 
-> **¿Buscas la plantilla de la web?** El kit web (Astro + Sanity + Netlify) está en su propio repositorio: [`desdequeteperdi/kit-negocio-web`](https://github.com/desdequeteperdi/kit-negocio-web). En este repositorio viven únicamente las **skills de IA** y las **plantillas de negocio** para empezar desde el Día 1.
+> **¿Buscas la plantilla de la web?** El kit web (Astro + Sanity + Netlify) está en su propio repositorio: [`desdequeteperdi/kit-negocio-web`](https://github.com/desdequeteperdi/kit-negocio-web) (e incluye opcionalmente `npm run mcp` para conectar Sanity, Netlify y Playwright sin Google Cloud). En este repositorio viven únicamente las **skills de IA** y las **plantillas de negocio** para empezar desde el Día 1.
 
 ---
 
@@ -29,6 +29,7 @@ Material de arranque para definir la oferta, investigar el mercado, diseñar pru
 
 ### 1. Skills (`skills/`)
 
+#### Estrategia y experimentación
 | Orden | Skill | Para qué sirve | Archivo |
 |---|---|---|---|
 | **1** | `aterrizar-idea` | Pasar de una idea general a una oferta en una frase, recursos, límites e hipótesis | [`skills/aterrizar-idea/SKILL.md`](skills/aterrizar-idea/SKILL.md) |
@@ -36,6 +37,14 @@ Material de arranque para definir la oferta, investigar el mercado, diseñar pru
 | **Opcional** | `consejo-asesores` | Revisión crítica simulada desde 5 perspectivas (cliente, mensaje, captación, costes y asesor que contradice) | [`skills/consejo-asesores/SKILL.md`](skills/consejo-asesores/SKILL.md) |
 | **3** | `disenar-experimento` | Definir la primera prueba pequeña (`E1`) con señal observable, plazo y presupuesto máximo | [`skills/disenar-experimento/SKILL.md`](skills/disenar-experimento/SKILL.md) |
 | **4** | `interpretar-resultados` | Separar observaciones medibles de hipótesis y decidir: continuar, modificar o detener | [`skills/interpretar-resultados/SKILL.md`](skills/interpretar-resultados/SKILL.md) |
+
+#### Redacción, auditoría y difusión (`kit-negocio-web`)
+| Cuándo | Skill | Para qué sirve | Archivo |
+|---|---|---|---|
+| **Sesiones 2 y 4** | `redactar-landing` | Redactar textos reales para los campos exactos de Sanity Studio (Portada, Servicios, Quiénes somos, FAQs, Contacto) sin inventar datos | [`skills/redactar-landing/SKILL.md`](skills/redactar-landing/SKILL.md) |
+| **En cualquier texto** | `humanizar-textos` | Filtro **anti-AI-slop** en español: elimina muletillas y tono robótico de IA y lo sustituye por hechos reales de `MEMORIA.md` | [`skills/humanizar-textos/SKILL.md`](skills/humanizar-textos/SKILL.md) |
+| **Sesiones 4, 6 y 8** | `auditar-web-seo` | Auditar conversión móvil, reseñas verificables (Google, ProvenExpert, Trustpilot, LinkedIn), SEO local, `/llms.txt` y privacidad | [`skills/auditar-web-seo/SKILL.md`](skills/auditar-web-seo/SKILL.md) |
+| **Sesiones 5, 9 / blog** | `reutilizar-contenido` | Flujo «1 artículo → 3 piezas» (carrusel, publicación breve/GBP, guion vídeo corto o Brevo) + bloque *En resumen* + UTMs | [`skills/reutilizar-contenido/SKILL.md`](skills/reutilizar-contenido/SKILL.md) |
 
 ### 2. Plantillas (`plantillas/`)
 
