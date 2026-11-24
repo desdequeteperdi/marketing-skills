@@ -39,4 +39,7 @@ Actualiza `MEMORIA.md`:
 - **Registro de conocimiento**: cada afirmación con su tipo (declarado, evidencia, inferencia o hipótesis) y si está verificada.
 - **Registro de trabajo**: lo que falta por averiguar, con responsable y fecha o condición.
 
-Termina con un brief de 5 líneas (la primera, la oferta en una frase) y las 3 hipótesis más arriesgadas, ordenadas por lo poco que se sabe de ellas y lo mucho que importan. Sugiere continuar con `investigar-mercado`.
+Termina con:
+1. Un brief de 5 líneas (la primera, la oferta en una frase) y las 3 hipótesis más arriesgadas, ordenadas por lo poco que se sabe de ellas y lo mucho que importan.
+2. Cómo encaja la prueba inicial en el kit (`plantillas/kit-negocio/`) **sin programar desde Sanity Studio**: por ejemplo, oferta principal en `1. Mi negocio y portada → Portada` + `Servicios` (o una `Landing de campaña` en `/[slug]`), y captación por formulario (`Contacto`), `Consulta por WhatsApp`, `Reservas con Google Calendar` o `Catálogo` (con enlace de pago Stripe opcional).
+3. Sugerencia de continuar con `investigar-mercado`.

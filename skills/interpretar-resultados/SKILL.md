@@ -9,7 +9,13 @@ Objetivo: decidir con lo observado, sin sobreinterpretar pocos datos.
 
 ## Antes de empezar
 
-Lee `MEMORIA.md` y la ficha del experimento: hipótesis, señal prevista y criterio fijado de antemano. Pide los datos reales (visitas, consultas, respuestas, presupuestos, ventas, inversión). No los inventes ni los estimes.
+Lee `MEMORIA.md` y la ficha del experimento: hipótesis, señal prevista y criterio fijado de antemano. Pide los datos reales disponibles en los canales del kit (`plantillas/kit-negocio/`) y en la hoja de seguimiento del alumno:
+- Formularios recibidos en **Netlify → Forms** (recordando excluir cualquier envío de ensayo marcado como **`PRUEBA`**).
+- Filas en Google Sheets (`Consultas` si usa `Consulta por WhatsApp`, `Reservas` + eventos en Google Calendar si usa `Reservas`).
+- Suscripciones en **Brevo** (si usa `Newsletter`) o pagos en **Stripe** (si usa tienda).
+- Tráfico, campañas UTM y visitas a `/gracias` en **Google Analytics 4** (solo si se activó en `Google, IA y buscadores` y los visitantes aceptaron cookies).
+
+No inventes ni estimes datos que falten. Si hubo clics en WhatsApp sin registro de consulta recibida, sepáralos expresamente (`clic → consulta recibida → cita/venta`).
 
 ## Proceso
 
@@ -36,4 +42,4 @@ Actualiza `MEMORIA.md`:
 - **Registro de conocimiento**: evidencias nuevas e hipótesis revisadas, cada una con su tipo (declarado, evidencia, inferencia o hipótesis) y si está verificada.
 - **Registro de trabajo** con las próximas acciones.
 
-Si hay que probar otra cosa, sugiere `disenar-experimento`.
+Si hay que probar otra cosa, sugiere `disenar-experimento`. Si los datos muestran tráfico hacia la web pero pocas consultas o compras, sugiere diagnosticar fugas con `landing-page-conversion-audit` o `auditar-web-seo`.

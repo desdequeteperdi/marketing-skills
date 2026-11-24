@@ -26,8 +26,13 @@ Objetivo: construir una **comparativa honesta y verificable** entre tu propuesta
      3. **Información insuficiente:** falta revisar páginas o preguntar directamente.
 3. **Filtro de relevancia («tener» vs. «importar»):**
    - Distingue si esa diferencia es solo algo interno tuyo o algo por lo que el cliente cambiaría de proveedor. Si no hay prueba real de que le importe, márcala en `MEMORIA.md` como **hipótesis pendiente de preguntar en entrevistas**.
-4. **Opcional · Traducción a tu web (para `kit-negocio-web`):**
-   - Redacta 2–3 frases claras o 2 preguntas frecuentes (para *Portada* o *Preguntas frecuentes* en Sanity Studio) explicando **tu forma de trabajar** (ej. *«Presupuesto cerrado por escrito antes de empezar»*) **sin nombrar ni atacar a competidores concretos** y pasando el filtro de `humanizar-textos`.
+4. **Opcional · Traducción a tu web (`plantillas/kit-negocio/`):**
+   - **En Sanity Studio (sin código):** redacta 2–3 frases claras o 2 preguntas frecuentes explicando **tu forma de trabajar** (ej. *«Presupuesto cerrado por escrito antes de empezar»*) **sin nombrar ni atacar a competidores concretos** y pasando el filtro de `humanizar-textos`. Rutas exactas:
+     - `1. Mi negocio y portada → Portada` (`presentacion`) o `Quiénes somos` (`texto` / `puntos`).
+     - `1. Mi negocio y portada → Páginas y landings de campaña` (`/[slug]`, campo `faqs`) si es una landing específica.
+     - `4. Contacto, buscadores y legal → Preguntas frecuentes de la portada`.
+   - *(Si tienes el MCP de Sanity activo tras `npm run mcp`, ofrece guardar la propuesta en **borrador** pidiendo confirmación antes de escribir; si no, entrégala lista para copiar, pegar y pulsar **Publish**).*
+   - *(Si hiciera falta una tabla comparativa visual fija o un componente nuevo que no existe en el bloque de texto libre, eso ya correspondería a código Astro en `web/src/` siguiendo `plantillas/kit-negocio/AGENTS.md`.)*
 
 ## Reglas
 

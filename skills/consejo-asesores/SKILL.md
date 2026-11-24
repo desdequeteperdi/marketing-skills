@@ -17,8 +17,8 @@ Lee `MEMORIA.md`. Pregunta qué propuesta se revisa (oferta, mensaje, experiment
 2. Da la palabra a 4 perspectivas, 2–3 frases cada una, ancladas en datos de `MEMORIA.md`:
    - **Cliente:** ¿entiende qué es, lo necesita y por qué lo elegiría frente a su alternativa actual?
    - **Mensaje:** ¿se entiende en una frase, sin jerga y sin prometer de más?
-   - **Captación:** ¿cómo llegaría a las personas adecuadas y qué señal observable daría?
-   - **Costes:** ¿cabe en el límite de pérdida, en tiempo y dinero?
+   - **Captación:** ¿cómo llegaría a las personas adecuadas y qué señal observable daría en un circuito real del kit (formulario `/gracias`, `Consulta por WhatsApp`, `Reservas`, `Newsletter`, enlace Stripe o `/enlaces`)?
+   - **Costes y operatividad:** ¿cabe en el límite de pérdida, en tiempo y dinero, y se puede ejecutar sin programar en `plantillas/kit-negocio/` (teniendo en cuenta sus límites reales: tienda Stripe de producto único sin carrito, Apps Script para volúmenes pequeños de reservas/WhatsApp, sin área privada)?
 3. Añade un **asesor que contradice**: toma la conclusión a la que apuntan las demás y defiende la contraria con su mejor argumento, sin caricatura.
 4. **Mapa de desacuerdos:** 2–3 conflictos reales entre perspectivas. Para cada uno: qué tensión hay y qué dato o experimento lo resolvería.
 5. Cierra con una recomendación provisional, el riesgo principal y la siguiente acción. La decisión es de la persona.

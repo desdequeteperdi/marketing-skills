@@ -58,4 +58,7 @@ Actualiza `MEMORIA.md`:
 - **Registro de conocimiento** con lo hallado.
 - **Registro de trabajo** con el guion de conversación y qué falta por comprobar.
 
-Cierra con: qué sabemos, qué no sabemos y cuál es la siguiente incertidumbre (por ejemplo, "si este tipo de cliente contrataría esta propuesta a este precio"). Sugiere continuar con `disenar-experimento`.
+Cierra con:
+1. Qué sabemos, qué no sabemos y cuál es la siguiente incertidumbre (por ejemplo, «si este tipo de cliente contrataría esta propuesta a este precio»).
+2. Qué conviene trasladar luego al kit (`plantillas/kit-negocio/`) sin programar (por ejemplo, dudas reales para `4. Contacto, buscadores y legal → Preguntas frecuentes de la portada`, dónde recogen reseñas verificables tus competidores —Google Maps, ProvenExpert, Trustpilot, LinkedIn o directorios— para `1. Mi negocio y portada → Reseñas y perfiles verificados`, o qué fricción de contacto evitar).
+3. Sugerencia de continuar con `comparar-competidores` (si necesitas tabla cara a cara) o `disenar-experimento`.
